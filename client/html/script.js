@@ -2,7 +2,7 @@ $(document).ready(function()
 {
     const $bg = $('div');
 
-    NAPI.Subscribe('blackscreen/toggle', function(args)
+    OOF.Subscribe('blackscreen/toggle', function(args)
     {
         ToggleBlackScreen(args);
     })

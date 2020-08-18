@@ -1,2 +1,2 @@
-# napi-blackscreen
-NAPI module for making the screen turn black
+# oof-blackscreen
+OOF module for making the screen turn black
